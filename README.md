@@ -27,10 +27,9 @@ This GitHub repository offers a template specifically designed to teach students
 [Provide a summary of your findings and conclusions, including any recommendations or implications for future research. Be sure to explain how your results address your research question or problem statement.]
 
 ## Contributors
-111ZM1025 CHEUK Ka Lok (Billy) 卓家樂 
+111ZM1025 CHEUK Ka Lok (Billy) 卓家樂
 112ZM1010 LO Bang Chen (Benson) 羅邦宸 
-112ZM1017 LE Sang Hoang (Sang)黎黄珊 
-![image](https://github.com/billycheukkl/finalproject/assets/135937108/c0e824a2-8605-4fe1-a142-25bdd7612453)
+112ZM1017 LE Sang Hoang (Sang) 黎黄珊 
 
 [List the contributors to your project and describe their roles and responsibilities.]
 
